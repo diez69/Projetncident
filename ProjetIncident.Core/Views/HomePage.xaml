@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:ProjetIncident" 
+             x:Class="ProjetIncident.HomePage">
+	<StackLayout Margin="20"> 
+        <Label Text="{Binding Title}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="20" />
+        <Label Text="Liste d'incident : " HorizontalOptions="Start" Margin="2,50,0,0"/>
+        <ListView ItemsSource="{Binding ListIncident}" SelectedItem="{Binding MaSelection}"/>
+        <Entry Text="{Binding NameIncident}"  />
+        <Button Text ="Déclarer un incident" Clicked="Handle_Declare"></Button>
+        <Button Text ="Photographier l'incident sélectionné" Clicked="Handle_Photo"></Button>
+        <Button Text ="Supprimer" Clicked="Handle_Sup"></Button>
+    </StackLayout>
+   
+</ContentPage>

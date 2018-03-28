@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{3DDF12EF-04E9-41E4-86BD-46AA6B56D65E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjetIncident.Core/Views/HomePage.xaml.cs">
+    <Files>
+      <File FileName="ProjetIncident.Core/ViewModel/MainMenuViewModel.cs" Line="110" Column="1" />
+      <File FileName="ProjetIncident.Core/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="ProjetIncident.Core/Views/ProjetIncidentPage.xaml" Line="15" Column="15" />
+      <File FileName="ProjetIncident.Core/NavigationService.cs" Line="1" Column="1" />
+      <File FileName="ProjetIncident.Core/Views/MainMenuPage.xaml" Line="8" Column="15" />
+      <File FileName="ProjetIncident.Core/Views/HomePage.xaml" Line="17" Column="1" />
+      <File FileName="ProjetIncident.Core/Views/HomePage.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ProjetIncident.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.13DAC161-FA6E-4E61-AA50-7916AB2BD84D">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ProjetIncident.iOS>
+  <MonoDevelop.Ide.ItemProperties.ProjetIncident.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.988a16454431574338" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

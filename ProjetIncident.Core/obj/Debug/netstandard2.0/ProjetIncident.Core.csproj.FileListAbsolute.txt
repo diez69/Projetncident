@@ -1,0 +1,14 @@
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/bin/Debug/netstandard2.0/ProjetIncident.Core.deps.json
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/bin/Debug/netstandard2.0/ProjetIncident.Core.dll
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/bin/Debug/netstandard2.0/ProjetIncident.Core.pdb
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.csproj.CoreCompileInputs.cache
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.App.xaml.g.cs
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.Views.HomePage.xaml.g.cs
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.Views.ProjetIncidentPage.xaml.g.cs
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.Views.MainMenuPage.xaml.g.cs
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.Views.SettingPage.xaml.g.cs
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.AssemblyInfoInputs.cache
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.AssemblyInfo.cs
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.dll
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.pdb
+/Users/iem/Projects/ProjetIncident/ProjetIncident.Core/obj/Debug/netstandard2.0/ProjetIncident.Core.csprojResolveAssemblyReference.cache
